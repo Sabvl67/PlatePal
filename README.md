@@ -1,9 +1,11 @@
 # PlatePal - "Spice up, save up"
 AI4GoodLab - Edmonton Cohort 2023 - Team 1
 
-## Author: Aesha Patel, Sana Shams, Tanya, Urim Iyasere and Anh Vo.
+# Author: Aesha Patel, Sana Shams, Tanya, Urim Iyasere and Anh Vo.
 
 We are thrilled to announce that our project, PlatePal, has clinched the prestigious Accelerator Award within the Edmonton Cohort 2023.
+
+## Project Overview
 
 PlatePal is a pioneering initiative designed to assist low-income individuals, including students and workers, in acquiring groceries more efficiently, addressing the pressing issue of rising food insecurity. The primary functions of this version include:
 
