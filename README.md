@@ -1,7 +1,7 @@
 # PlatePal - "Spice up, save up"
 AI4GoodLab - Edmonton Cohort 2023 - Team 1
 
-# Author: Aesha Patel, Sana Shams, Tanya, Urim Iyasere and Anh Vo.
+Author: Aesha Patel, Sana Shams, Tanya, Urim Iyasere and Anh Vo.
 
 We are thrilled to announce that our project, PlatePal, has clinched the prestigious Accelerator Award within the Edmonton Cohort 2023.
 
