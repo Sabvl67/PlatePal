@@ -24,5 +24,5 @@ We extend our gratitude to Flipp.com for providing essential data and support fo
 Feel free to explore, contribute, and enhance PlatePal to make grocery shopping a more accessible and enjoyable experience for everyone.
 
 
-https://github.com/Sabvl67/PlatePal/assets/96748230/6371c75e-d1d0-4404-aa0c-07dbcf9dd385
+https://github.com/Sabvl67/PlatePal/assets/96748230/ec0596f0-5efa-43c1-be2e-6a4c9cf051a3
 
